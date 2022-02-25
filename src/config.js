@@ -1,12 +1,12 @@
 const layersOrder = [
-    { name: 'background', number: 1 },
-    { name: 'ball', number: 2 },
-    { name: 'eye color', number: 12 },
-    { name: 'iris', number: 3 },
-    { name: 'shine', number: 1 },
-    { name: 'shine', number: 1 },
-    { name: 'bottom lid', number: 3 },
-    { name: 'top lid', number: 3 },
+    { name: 'Background', number: 2 },
+    { name: 'Back Left', number: 10 },
+    { name: 'Back Right', number: 10 },
+    { name: 'Bottom', number: 10 },
+    { name: 'Sphere', number: 1 },
+    { name: 'Front Left', number: 10 },
+    { name: 'Front Right', number: 10 },
+    { name: 'Top', number: 10 },
 ];
 
 const format = {

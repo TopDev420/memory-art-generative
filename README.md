@@ -11,12 +11,6 @@ To find out more please visit:
 
 [👄 Discord](https://discord.com/invite/qh6MWhMJDN)
 
-# generative-art-node
-
-Create generative art by using the canvas api and node js
-
-![](https://github.com/HashLips/generative-art-node/blob/main/src/preview.png)
-
 ## Installation
 
 ```sh
